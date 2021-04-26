@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Brief Notes on Various Closed Captioning & Subtitles Standards - By Suvigya Jain
 
-You can use the [editor on GitHub](https://github.com/SuvigyaJain1/Notes-on-Subtitles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Disclaimer: none of this is my own work and is mostly paraphrasing of content I have found from tons of webpages and books online. It is merely intended to help people find general information about the topic in one place. I am by no means an authority or claiming that any of this is accurate. Feel free to mail me at suvigyajain1@gmail.com for correction or feedback*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What are subtitles ?
+**Subtitles** are the text you probably have seen on your screens (TV, mobiles, etc) which display the dialgoue on screen or other information related to the video content being played. They were originally created to help those hard of hearing but have also found use in making content accessible to more people across language barriers and just as a means to add translations. **Closed captioning** refers to the same thing as subtitles. [https://en.wikipedia.org/wiki/Subtitles]
 
-### Markdown
+These subtitles, subs for short can be pre-rendered with the video, or be separate as
+- Graphic (.png for example) 
+- Text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuvigyaJain1/Notes-on-Subtitles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The separate ones have the obvious advantage of being hidden until the user explicitly turns them on, as well as easy editing. But they also additionaly require 'markers' to give information about where to place the subtitles in the video. These markers are typically timecodes although they can be the length of the film as well.
